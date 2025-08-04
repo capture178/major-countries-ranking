@@ -1,0 +1,103 @@
+.Military{
+    color: Rgb(235, 130, 111);
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.Economy{
+    color: Rgb(59, 179, 113);
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.Population{
+    color: Rgb(244, 234, 91);
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.Landmass{
+    color: Rgb(27, 82, 184);
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.Ranks{
+    text-decoration: none;
+    color:rgb(0,0,0); 
+}
+em{
+    display: block;
+    text-align: right;
+}
+h2{
+    text-align: center;
+    margin-top: -10;
+    margin-left: 5px;
+}
+.Countries{
+    border-radius: 5px;
+    padding: 360px, 10px;
+    background-color: rgb(127, 127, 127);
+    margin-bottom: 10px;
+}
+p{
+    font-size: 11px;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color:rgb(255,255,255);
+}
+h3{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(235, 130, 111);
+    width: 90px;
+    display:inline-block;
+    line-height: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin: 25px, 25px, 0, auto;
+}
+h4{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(59,179,113);
+    width: 90px;
+    display:inline-block;
+    text-size-adjust: 24px;
+    line-height: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin: 25px, auto, 0, 25px;
+}
+h5{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(244, 234, 91);
+    width: 90px;
+    display:inline-block;
+    line-height: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin: -10, 25px, 25px, auto;
+}
+h6{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(27, 82, 184);
+    width: 90px;
+    display:inline-block;
+    text-size-adjust: 24px;
+    line-height: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin: -10, auto, 25px, 25px;
+}
+.child {
+    height: 100px;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -200px;
+  }
